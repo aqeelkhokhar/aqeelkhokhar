@@ -14,7 +14,18 @@ I help startups and product teams build, maintain and ship mobile apps without h
 
 Fifteen plus production apps and over 110,000 combined downloads.
 
+## A note on my work
+
+Most of what I build is commercial work for clients, and that code is private under the agreements I work under. The repositories on this profile are public samples, so they show how I structure and write code but they are not the full picture.
+
+To see the apps themselves, walk through how I build and ship them, or get an idea of how I would approach your product, message me by email or WhatsApp. I am happy to share details and arrange a short demo.
+
+- Email aqeelakash596@gmail.com
+- WhatsApp +92 302 3376494
+
 ## Open source
+
+Public work, all of it open for you to read.
 
 | Project | What it does |
 | --- | --- |
