@@ -25,10 +25,10 @@ Fifteen plus production apps and over 110,000 combined downloads.
 
 ## Stack
 
-**Mobile** React Native, Expo, Flutter, Swift, Kotlin, native modules
-**Web** TypeScript, React, Next.js, Node.js, NestJS, PostgreSQL
-**Data and AI** TanStack Query, Redux Toolkit, GraphQL, OpenAI API, Gemini API, Claude API
-**Delivery** GitHub Actions, Bitrise, Maestro, store submissions
+- **Mobile.** React Native, Expo, Flutter, Swift, Kotlin, native modules
+- **Web.** TypeScript, React, Next.js, Node.js, NestJS, PostgreSQL
+- **Data and AI.** TanStack Query, Redux Toolkit, GraphQL, OpenAI API, Gemini API, Claude API
+- **Delivery.** GitHub Actions, Bitrise, Maestro, store submissions
 
 ## Credentials
 
