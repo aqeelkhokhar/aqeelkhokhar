@@ -31,7 +31,7 @@ Public work, all of it open for you to read.
 | --- | --- |
 | [react-native-highlight-text](https://github.com/aqeelkhokhar/react-native-highlight-text) | Instagram and TikTok style highlighted text input with rounded per character backgrounds. Native on iOS and Android, ready for the New Architecture. [On npm](https://www.npmjs.com/package/react-native-highlight-text-view) |
 | [react-native-layout-transfarmer](https://github.com/aqeelkhokhar/react-native-layout-transfarmer) | Cross device layout scaling for React Native. Design once, scale everywhere. [On npm](https://www.npmjs.com/package/react-native-layout-transfarmer) |
-| [voicemark](https://github.com/aqeelkhokhar/voicemark) | Private voice journaling app. Expo, TypeScript, on device speech to text and a free tier AI reflection. |
+| [voicemark](https://github.com/aqeelkhokhar/voicemark) | Private voice journaling app. Expo, TypeScript, on device speech to text and a reflection written by Claude. |
 | [ccarf-drill](https://github.com/aqeelkhokhar/ccarf-drill) | Practice drill for the Claude Certified Architect Foundations exam. One HTML file, no build, no account. |
 
 ## Stack
