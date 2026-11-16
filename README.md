@@ -49,6 +49,7 @@ Public work, all of it open for you to read.
 
 I take remote contracts, fixed scope projects and ongoing mobile support, and I am open to relocation with sponsorship for the right role.
 
+- Book a call https://cal.com/aqeelahmad/intro
 - Portfolio https://aqeel-ahmad-portfolio.vercel.app/
 - LinkedIn https://www.linkedin.com/in/aqeel-ahmad-mobile-engineer
 - Email aqeelakash596@gmail.com
